@@ -1,0 +1,9 @@
+[
+  {"id": "f1", "prompt": "What is the capital of Australia?", "expected": "Canberra"},
+  {"id": "f2", "prompt": "Who wrote the play 'Romeo and Juliet'?", "expected": "William Shakespeare"},
+  {"id": "f3", "prompt": "What is the chemical symbol for gold?", "expected": "Au"},
+  {"id": "f4", "prompt": "In what year did World War II end?", "expected": "1945"},
+  {"id": "f5", "prompt": "How many continents are there on Earth?", "expected": "Seven"},
+  {"id": "f6", "prompt": "What is the speed of light in a vacuum, approximately?", "expected": "About 299,792,458 metres per second (~3x10^8 m/s)"}
+
+]

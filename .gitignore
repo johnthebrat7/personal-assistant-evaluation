@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+eval/results/__pycache__/
+space/logs.jsonl
