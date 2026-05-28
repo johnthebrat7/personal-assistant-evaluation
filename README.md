@@ -11,7 +11,7 @@ with guardrails, tool use, short term memory, and live observability.
  
 **🔗 Live demo (OSS assistant):** https://huggingface.co/spaces/JohnNhiBnPayaDon/qwen-personal-assistant
 
-** Switching between OSS and Frontier Models** https://drive.google.com/file/d/1uYyx7zY4bcA0WpMFGgCYZflWegeDr0Ih/view?usp=sharing
+Switching between OSS and Frontier Models : https://drive.google.com/file/d/1uYyx7zY4bcA0WpMFGgCYZflWegeDr0Ih/view?usp=sharing
  
 ---
  
